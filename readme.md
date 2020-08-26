@@ -4,7 +4,7 @@ Qus1 is the solution for QUS1
 
 Qus2 is the solution for QUS2
 
-In Qus1 folder run, npm i and npm start and it will work automatically
+In Qus1 folder run, npm i and npm start.
 
 In Qus2 folder
 
