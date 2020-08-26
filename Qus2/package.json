@@ -1,0 +1,17 @@
+{
+  "name": "spring-rain-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "env-cmd -f ./config/dev.env node server.js"
+  },
+  "author": "Nazmul Islam Fahim",
+  "license": "ISC",
+  "dependencies": {
+    "env-cmd": "^10.1.0",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "mongoose": "^5.10.0"
+  }
+}
